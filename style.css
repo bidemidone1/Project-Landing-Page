@@ -66,6 +66,9 @@ nav ul {
     background-image: url(images/bg2.jpg);
     background-size: cover;
     height: 100vh;
+    text-align: center;
+    padding-top: 15vh;
+    line-height: 10vh;
     /* background-position: center; */
 }
 
